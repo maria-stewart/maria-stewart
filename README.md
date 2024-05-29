@@ -1,7 +1,7 @@
 ### :wave: Hi my name is Maria Stewart
 - 🌱 Enrolled as a Software Engineering Master's student at the University of Maryland Global Campus
 - :eyes: I’m looking to explore opportunities for advancing into a software engineering position
-- :computer: Currently learning how to build my own website with HMTL, CSS, and JS
+- :computer: Check out my repos for the projects I have and continue to work on!
 - :email: maria.stewart@yahoo.com 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love gaming, reading, hiking, and learning how develop cool tech projects :sunglasses:
