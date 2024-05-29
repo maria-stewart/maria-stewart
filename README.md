@@ -14,9 +14,9 @@
 
 **Databases:** `Oracle` `MySQL` `SQLite` `Java DB` `MongoDB` 
 
-**Framweworks and Libraries:** `Blazor` `Bootstrap` `JavaServer Faces` `Java Swing`
+**Framweworks and Libraries:** `Blazor` `Bootstrap` `JavaServer Faces` `Java Swing` `Spring Boot`
 
-**Tools:** `Git` `GitHub` `Docker` `Microsoft Visual Studio` `Eclipse` `NetBeans` `IntelliJ` `Maven` `PyCharm`
+**Tools:** `Git` `GitHub` `Docker` `Microsoft Visual Studio` `Eclipse` `NetBeans` `IntelliJ` `Maven` `PyCharm` `Postman` 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maria-stewart&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
