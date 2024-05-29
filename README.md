@@ -1,5 +1,5 @@
 ### :wave: Hi my name is Maria Stewart
-- 🌱 Enrolled as a Software Engineering Master's student at the University of Maryland Global Campus
+- 🌱 Recent graduate as a Masters in Computer Science with a focus in Software Engineering from the University of Maryland Global Campus
 - :eyes: I’m looking to explore opportunities for advancing into a software engineering position
 - :computer: Check out my repos for the projects I have and continue to work on!
 - :email: maria.stewart@yahoo.com 
@@ -10,7 +10,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-stewart-96b245127) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+**Languages:**  `Java` `C#` `Python` `HTML` `CSS` `JavaScript`
+
+**Databases:** `Oracle` `MySQL` `SQLite` `Java DB` `MongoDB` 
+
+**Framweworks and Libraries:** `Blazor` `Bootstrap` `JavaServer Faces` `Java Swing`
+
+**Tools:** `Git` `GitHub` `Docker` `Microsoft Visual Studio` `Eclipse` `NetBeans` `IntelliJ` `Maven` `PyCharm`
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maria-stewart&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maria-stewart&theme=dark&hide_border=false)<br/>
